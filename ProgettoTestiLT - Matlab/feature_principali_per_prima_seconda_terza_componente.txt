@@ -1,0 +1,15 @@
+1. Feature principali per la prima componente principale:
+blood_glucose_level
+age
+bmi
+HbA1c_level
+2. Feature principali per la seconda componente principale:
+age
+bmi
+blood_glucose_level
+HbA1c_level
+3. Feature principali per la terza componente principale:
+bmi
+age
+blood_glucose_level
+HbA1c_level
